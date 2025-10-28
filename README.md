@@ -1,4 +1,4 @@
-# AutoAudit-Lite  
+# Auto Auditor for Datasets  
 A simple, local bias & class-performance analyzer for tabular datasets.
 
 ## Features
