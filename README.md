@@ -1,4 +1,4 @@
-# Auto Auditor for Datasets  
+# Auto Auditing Model for Datasets  
 A simple, local bias & class-performance analyzer for tabular datasets.
 
 ## Features
